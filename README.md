@@ -1,6 +1,6 @@
 ## Literapolítica
 
-This is an amazing project. I want to talk about literature, politics and other stuff.
+This is an amazing project.
 
 ## Running
 
