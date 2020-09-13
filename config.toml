@@ -1,56 +1,54 @@
 baseURL = "https://marianafnsc.github.io/osmiseraveis/"
-languageCode = "en-us"
-title = "Literapolítica"
+languageCode = "pt-br"
+title = "De lá pra cá"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-copyright = "John Doe - All rights reserved"
+copyright = "John Doe - None rights reserved"
 enableEmoji = true
 publishDir = "docs"
 #disqusShortname = "your-shortname-here"
 #googleAnalytics = "UA-1XXXXXXX1-1"
 
 [params]
-  logo = "/images/logo.png"
-  description ="the clean blog!"
+  logo = "/images/2019_30.png"
+  description ="relatos"
   #mailchimp = "you can provide a mailchimp-link here"
 
 [params.author]
-  name = "Mariana Fonseca"
-  thumbnail = "/images/author.png"
-  description = "Creator of this blog."
+  name = "mariana"
+  thumbnail = "/images/2019_30.png"
+  #description = "Creator of this blog."
 
 [params.index]
-  picture = "/images/author.png"
-  title = "Mariana Fonseca"
-  subtitle = "I'm a unique placeholder. Working here and there!"
+  picture = "/images/2018_13.png"
+  title = "mariana"
+  subtitle = "algum lugar entre o bar e o lajedo"
   mdtext = '''
-Currently trying to get this blog running, still don't know what the blog will be about!\
-**This textblock is a demonstration of the mdtext-param.**\
-### This is a markdown heading
+aqui eu falo sobre viagens legais e festivais de música
 '''
   alertbar = false
 
 [params.social]
-  github = "<username>"
-  linkedin = "<username>"
-  xing = "<username>"
-  medium = "<username>"
-  twitter = "<username>"
-  instagram = "<username>"
+  github = "<https://github.com/marianafnsc>"
+  #linkedin = "<username>"
+  #xing = "<username>"
+  #medium = "<username>"
+  twitter = "<https://twitter.com/fontesecas>"
+  #instagram = "<username>"
 
 ## Main Menu
 [[menu.main]]
-    name = "Blog"
+    name = "ideias"
     weight = 100
-    identifier = "blog"
-    url = "/blog"
+    identifier = "ideias"
+    url = "/ideias"
 [[menu.main]]
-    name = "About Me"
-    identifier = "about"
+    name = "sobre"
+    identifier = "sobre"
     weight = 200
     url = "/"
-[[menu.main]]
-    name = "Imprint"
-    identifier = "imprint"
-    weight = 200
-    url = "/static/imprint"
+#[[menu.main]]
+    #name = "Imprint"
+    #identifier = "imprint"
+    #weight = 200
+    #url = "/static/imprint"
