@@ -1,5 +1,5 @@
 ---
-title: "Rio de verdade"
+title: "Rio: conexões antigas, novos olhares"
 date: 2014-10-14T12:30:14+02:00
 publishdate: 2014-10-14T20:30:14+02:00
 type: "post"
@@ -8,7 +8,7 @@ comments: false
 ---
 ### A segunda primeira vez carioca
 
-Em 17 de julho de 2014 eu recebi a notícia da aprovação para a graduação em Ciência Política pela UnB. Eu sabia que em outubro vários colegas no ensino médio iriam para Porto Seguro, a famosa viagem do terceirão. 
+Em 17 de julho de 2014, eu recebi a notícia da aprovação para a graduação em Ciência Política pela UnB. Eu sabia que em outubro vários colegas no ensino médio iriam para Porto Seguro, a famosa viagem do terceirão. 
 
 Bem, eu não consegui marcar a minha viagem para ir com os meus amigos do Marista, e não tinha amigos no Leonardo, não conhecia ninguém que ia para essa viagem. A melhor coisa foi decidir ir para o Rio, exatamente na mesma semana que todos iriam para Porto Seguro. A diferença é que eu matei as aulas da UnB pra ir, eles as da escola.
 
