@@ -17,7 +17,7 @@ publishDir = "docs"
 [params.author]
   name = "mariana"
   thumbnail = "/images/2019_30.png"
-  #description = "Creator of this blog."
+  description = "não sei oq tô fazendo aqui"
 
 [params.index]
   picture = "/images/2018_13.png"
