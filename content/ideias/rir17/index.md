@@ -12,7 +12,7 @@ Depois do Bananada de 2017, acho que eu fiquei um pouco (muito) viciada em festi
 
 Douglas e eu resolvemos ir ver uma das nossas bandas preferidas: Red Hot Chili Peppers! A gente convidou a Thereza, louca pelo Bon Jovi, e acabamos indo em dois dias: um de cada headliner. Nós acabamos aproveitando para passar uns 7 dias no Rio e apresentar tudo para a The: tudo mesmo. Todos os passeios mais turísticos... fizemos tudo de novo!
 
-Andamos TOOODA a orla de copacabana até o final do leblon. A ideia era almoçar no Vidigal, mas o Yuri arregou (kakaka). Pegamos um ônibus e fomos almoçar no famoso Tropical, o de sempre hehe. À noite fomos na Lapa, a Thereza ficou doidinha de caipirinha, mas todo mundo se divertiu demais!No dia seguinte rolou Pão de Açúcar e uma praiana na Praia Vermelha. A gente encontrou com a Andressa (FIGURAÇA!)
+Andamos TOOODA a orla de copacabana até o final do leblon. A ideia era almoçar no Vidigal, mas o Yuri arregou (kakaka). Pegamos um ônibus e fomos almoçar no famoso Tipicamente, o de sempre hehe. À noite fomos na Lapa, a Thereza ficou doidinha de caipirinha, mas todo mundo se divertiu demais!No dia seguinte rolou Pão de Açúcar e uma praiana na Praia Vermelha. A gente encontrou com a Andressa (FIGURAÇA!)
 
 A vista do Rio no Pão de Açúcar é simplesmente incrível, não dá pra esquecer. Fomos para o primeiro dia de show, chegamos tarde e formos embora mais tarde ainda. Estávamos MUITO empolgados e ficamos bem na frente, o show do Tears for Fears foi muito emocionante e The pirou no Bon Jovi!! 
 
