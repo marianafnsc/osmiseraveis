@@ -12,7 +12,7 @@ comments: false
 
 Tudo começou quando a gente comprou os ingressos e o Douglas mandou entregar na casa dele. Quando os ingressos chegaram, eu ainda levei da portaria e coloquei em cima do microondas: "E aí, douglas, não vai pegar seu ingresso pra dar aquele bizu?". Ele pegou. Botou deus sabe onde. Resultado: não sabemos ao certo onde foi parar, mas provavelmente foi pro lixo. 
 
-Embarcamos para o Rio em 30/09 com a finalidade de curtir um pouco a cidade antes do show (o Douglas resolveu ir, mesmo sem o ingresso). Mal sabíamos nós que eu teria que trabalhar naqueles dias, abominável. Ao fim e ao cabo, o Douglas aproveitou muito mais a viagem do que eu, ele ficou zanzando pelo Rio todos os dias, ainda conheceu o PArque Laje (que eu ainda não conheço) e uns lugares aleatórios.
+Embarcamos para o Rio em 30/09 com a finalidade de curtir um pouco a cidade antes do show (o Douglas resolveu ir, mesmo sem o ingresso). Mal sabíamos nós que eu teria que trabalhar naqueles dias, abominável. Ao fim e ao cabo, o Douglas aproveitou muito mais a viagem do que eu, ele ficou zanzando pelo Rio todos os dias, ainda conheceu o Parque Laje (que eu ainda não conheço) e uns lugares aleatórios.
 
 Eu fiquei trancafiada em casa, fazendo trabalho, sério NINGUÉM MERECE. À noite eu até saía, mas porra, ir pro Rio e ficar em casa é sacanagi demais. Claro que no dia do jogo do Flamengo a gente foi pra um bar, porque é isso né, ir pro Rio tem que ir ver o Flamengo em um bar com geral xingando e cantando junto (tempos áureos do Mengão né, tava tudo ainda melhor). Fomos no Tipicamente, o nosso TRADICIONAL. No dia do show foi o único que saí, e o único que o Douglas ficou mais em casa. 
 
