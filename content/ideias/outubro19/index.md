@@ -28,7 +28,7 @@ Assisti ao show do Panic! (não eu não conhecia muito a banda antes disso, sham
 
 Depois disso, foi o meu terceiro show do Red Hot, não sabia se ia ser bom ou ruim ouvir o mesmo setlist pela terceira vez seguida, só que... não foi isso que rolou. Eles deixaram de lado várias músicas muito conhecidas e tocaram umas mais antigas, que são ótimas, mas que não são top trending. Demorei pra entender a proposta do show, mas foi isso, inovação nas antigas. 
 
-Era aniversário do Josh e eles tocaram as preferidas dele, ainda rolou uma palhinha dele (bonitin) cantando I don't wanna grow up, aff... Fofin! A guitarra dele tava na mal, mas o bicho manda muito bem, o show bem bom! Outra proposta e muito bom o que eles tentaram fazer dessa vez. Menos o Anthony que, apesar de amar, conseguiu me deixar mais puta que nunca falando que o Brasil é sujo, tipo assim anjo... e seu cabelo seboso??? 
+Era aniversário do Josh e eles tocaram as preferidas dele, ainda rolou uma palhinha dele (bonitin) cantando I don't wanna grow up, aff... Fofin! A guitarra dele tava na mal, mas o bicho manda muito bem, o show foi bem bom! Outra proposta e muito bom o que eles tentaram fazer dessa vez. Menos o Anthony que, apesar de amar, conseguiu me deixar mais puta que nunca falando que o Brasil é sujo, tipo assim anjo... e seu cabelo seboso??? 
 
 Saí do RiR às 4h da manhã e... OLHA SÓ metrô funcionando, BRT funcionando... xora SP!!! Claro que o Douglas se atrapalhou todo na hora de ir me buscar na estação, mas deu tudo certo. 
 
