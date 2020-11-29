@@ -1,5 +1,5 @@
 ---
-title: "Lonelly Rio: um acidente"
+title: "Lonely Rio: um acidente"
 date: 2019-10-03T16:30:14+02:00
 publishdate: 2019-10-04T04:30:14+02:00
 type: "post"
