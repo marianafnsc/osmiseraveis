@@ -14,8 +14,12 @@ Não deu outra. Fomos os últimos a embarcar - o Argel nos fez pagar por ele, "a
 
 Quando finalmente conseguimos sair, chegamos a Algodoal. A ilha paraense é fantástica, ficamos lá três dias e foi simplesmente mágico. Conheci vários amigos da Vit e todos nós nos divertimos muito, fomos à praia dois dias seguidos. É muito lindo, muito impressionante como o rio encontra o mar e água é tão quentinha, mesmo às 20h está ainda tão quentinha. 
 
+![Image](image.png "icon")
+
 O tempo na ilha parece que anda para trás de tão devagar, na primeira noite ficamos até de madrugada na praia. A barraca de onde estávamos perto ficou tocando uma musiquinha o tempo todo, um reggaezinho bem gostoso e eu tentei aprender o jeito paraense de dançar reggae. Quando a gente estava voltando começou a querer chover muito, mas fomos nos guiando pela luz do luar durante todo o caminho de volta (que era bem longinho) até passar o mangue. 
 
 No dia seguinte, nós passamos para um pouco depois do ponto do dia anterior, atravessamos um montão de praia e para dentro do mato. Andamos um bocado e chegamos até o lago da princesa, lindo demais, água quentinha. É incrível como esses tipo de lugar extraordinário brota do nada, no meio do mato, tão perto do mar. Ficamos lá até a tardinha e depois voltamos caminhando juntos. O por-do-sol estava incrível e apreciar essa paisagem, andando por uma praia praticamente deserta, vento batendo no rosto, que grande privilégio. 
+
+![Image](image2.jpg "icon")
 
 Na nossa última noite, ainda fomos curtir um reggae na praia principal, um último mergulho no mar, a lua tava quase cheia, bem bonita. Algodoal é um lugar mágico, é incrível como é isolado e, ao mesmo, tempo tem tanta conexão com... tudo. 

@@ -18,8 +18,14 @@ Primeiro, passamos cinco dias no Recife, eu não conhecia nadica nessa região e
 
 No primeiro dia, nós nos acomodamos e compramos as coisas que precisaríamos em casa e no dia seguinte já fomos para a linda praia de Boa Viagem. Como todas as praias do nordeste são perfeitas, essa aqui é muito singular, tem uma temperatura excelente, é azulzinha e tem um paredão (os arrecifes de corais) que tornam a beira da praia uma verdadeira piscina!
 
+![Image](image.jpeg "icon")
+
 A gente também aproveitou pra conhecer a parte histórica da cidade, e estava tudo tão bonito! Duvido que tenha uma época mais bonita para conhecer o Recife, tudo decorado para o carnaval, fomos na casa de bonecos gigantes e no marco zero. À noite estava rolando um bloquinho ali pelo centro e a gente resolveu curtir o pré-carna de Recife!! É incrível, simplesmente todo mundo muuuito animado.
 
+![Image](image2.jpeg "icon")
+
  No terceiro dia, nós resolvemos viver um pouco de carnaval em Olinda! A gente conheceu a parte histórica de Olinda, (aah detalhe, passamos pelo memorial do Chico Science!), visitamos uma igreja que tem a vista mais linda de Recife e Olinda juntas! Almoçamos num lugar muito quente, mas que a comida era bem boa e a vista linda! Do nada nos vimos perdidas em um bloco, então... TACA GLITTER! Comemos um acarajé perfeito, compramos um monte de quitutinhos lindos e voltamos pro airbnb. 
+
+ ![Image](image3.jpeg "icon")
 
  No quarto dia, a gente pegou mais uma praiana e de tardinha pra noite mais carnaval! Vi o show da Luedji Luna e ela estava, como sempre, perfeita! Depois de nos perdermos um pouco, acarajé, segui bloco e comprar quitutes... voltamos pra casa, íamos nos arrumar pra seguir viagem no dia seguinte. Mas isso é história pra outro post!
